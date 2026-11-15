@@ -55,11 +55,11 @@ The models were evaluated using:
 
 ### Results
 
-| Model | Training ROC AUC | Test ROC AUC |
-|---|---:|---:|
-| Logistic Regression | 84.50% | 85.75% |
-| Decision Tree | 84.98% | 84.16% |
-| KNN | 89.27% | 77.86% |
+| Model | Test ROC AUC |
+|---|---:|
+| Logistic Regression | 84.38% |
+| Decision Tree | 81.46% |
+| KNN | 76.76% |
 
 Logistic Regression achieved the best test ROC AUC score among the three models.
 
